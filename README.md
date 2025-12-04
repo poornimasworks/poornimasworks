@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poornima
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis, building Data science and Machine Learning model.
 
 <!---
 poornimasworks/poornimasworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
